@@ -1,5 +1,2 @@
-# rheehot@gmail.com
-# facebook.com/rheehot
-# intagram.com/rheehot
-
+rheehot@gmail.com
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
