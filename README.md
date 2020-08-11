@@ -1,7 +1,8 @@
-Hi there, I'm Rheehot! 👋
+Hi there, I'm RHEEHOT! 👋
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
 
 ![rheehot's github stats](https://github-readme-stats.vercel.app/api?username=rheehot&show_icons=true&theme=radical)
 
-https://brunch.co.kr/@jowlee ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://brunch.co.kr/@jowlee)
+https://brunch.co.kr/@jowlee 
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://brunch.co.kr/@jowlee)
