@@ -6,5 +6,7 @@ rheehot@gmail.com
 
 ![rheehot's github stats](https://github-readme-stats.vercel.app/api?username=rheehot&show_icons=true&theme=radical)
 
+![rheehot's github stats](https://github-readme-stats.vercel.app/api?username=rheehot&hide=contribs,prs)
+
 https://brunch.co.kr/@jowlee 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://brunch.co.kr/@jowlee)
